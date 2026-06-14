@@ -2,6 +2,8 @@
 
 A Streamlit web application that removes metadata from various file types, helping you protect your privacy by stripping sensitive information from your files.
 
+**Author:** V TEJASHREE
+
 ## ✨ Features
 
 - 📷 **Images**: Remove EXIF data from JPG, JPEG, PNG files
@@ -76,3 +78,9 @@ Your app will be live on the internet! 🎉
 - Downloaded files contain no metadata
 - Large files may take longer to process
 - Supported formats: JPG, JPEG, PNG, PDF, DOCX, MP3, WAV, MP4
+
+## 📝 License
+
+MIT License - This project is open source. You are free to use, modify, and distribute this software.
+
+Original author: V TEJASHREE
